@@ -187,11 +187,6 @@ This documentation provides an overview of the available API endpoints, HTTP met
 
 ---
 
-## Notes:
-- All authenticated requests require a valid JWT token in the `Authorization` header.
-- Replace `<your_token>` and `<your_refresh_token>` with the actual token strings.
-- Adjust the URLs based on your server environment (e.g., `http://127.0.0.1:8000/`).
-```
 
 ### How to Use
 
