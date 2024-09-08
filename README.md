@@ -6,7 +6,24 @@ To guide users on how to run your Django project, you can add a **"How to Run th
 ### 2. Create and Activate a Virtual Environment
 
 It's recommended to use a virtual environment to manage dependencies.
+# Project Setup and API Documentation
 
+## How to Run the Project
+
+Follow these steps to set up and run the Django project locally.
+
+### Prerequisites
+
+- Python 3.x
+- Django
+- PostgreSQL (or any other database of your choice)
+- pip (Python package installer)
+- A virtual environment (recommended)
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/yourproject.git
+cd yourproject
 For Windows:
 ```bash
 python -m venv env
