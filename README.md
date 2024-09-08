@@ -22,9 +22,11 @@ Follow these steps to set up and run the Django project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+[git clone https://github.com/yourusername/yourproject.git](https://github.com/codebadolo/Api-doucentation-example.git)
+cd  Api-doucentation-example
+
 For Windows:
+
 ```bash
 python -m venv env
 env\Scripts\activate
