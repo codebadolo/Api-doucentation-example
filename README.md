@@ -2,26 +2,6 @@ Here’s the remaining portion of your API documentation in the same format as y
 
 To guide users on how to run your Django project, you can add a **"How to Run the Project"** section at the top of the `README.md` file. Here's an updated version of the `README.md` file, including instructions on how to set up and run the project, followed by the API documentation:
 
-```markdown
-# Project Setup and API Documentation
-
-## How to Run the Project
-
-Follow these steps to set up and run the Django project locally.
-
-### Prerequisites
-
-- Python 3.x
-- Django
-- PostgreSQL (or any other database of your choice)
-- pip (Python package installer)
-- A virtual environment (recommended)
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-```
 
 ### 2. Create and Activate a Virtual Environment
 
